@@ -1,6 +1,6 @@
 # 🤖 STM32 PID Line Follower — Task 4A
 
-A PID-controlled line following robot built on the **STM32F103C8T6** microcontroller using the STM32 HAL framework. The bot autonomously follows a white line, detects junctions (left/right turns), and halts at a defined stop condition.
+A PID-controlled line following robot built on the **STM32F103RB** microcontroller using the STM32 HAL framework. The bot autonomously follows a white line, detects junctions (left/right turns), and halts at a defined stop condition.
 
 ---
 
