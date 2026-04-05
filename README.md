@@ -35,7 +35,7 @@ The bot starts at point **A** and must reach point **B** by following the white 
 
 | Component | Details |
 |---|---|
-| Microcontroller | STM32F103C8T6 (Blue Pill) |
+| Microcontroller | STM32F103RB (Blue Pill) |
 | IR Sensors | 5-channel analog IR sensor array |
 | ADC | ADC1 with DMA (channels 8–12) |
 | Motor Driver | Dual H-Bridge (L298N or similar) |
